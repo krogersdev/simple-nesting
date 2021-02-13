@@ -1,0 +1,25 @@
+
+[1mFrom:[0m /home/krogers47/Development/code/Mod1/week1/labs/simple-nesting/nested.rb:32 Object#alan_kay_is_known_for:
+
+    [1;34m30[0m: [32mdef[0m [1;34malan_kay_is_known_for[0m
+    [1;34m31[0m:   programmer_hash =  
+ => [1;34m32[0m:   binding.pry
+    [1;34m33[0m:     [[33m:alan_kay[0m][[33m:known_for[0m][[1;34m0[0m]= alans_new_info  [1;34m# What combination of keys would you use to return the value of the :known_for key of :alan_kay?[0m
+    [1;34m34[0m:  		
+    [1;34m35[0m:     {
+    [1;34m36[0m:         [33m:grace_hopper[0m => {
+    [1;34m37[0m:           [33m:known_for[0m => [31m[1;31m"[0m[31mCOBOL[1;31m"[0m[31m[0m,
+    [1;34m38[0m:           [33m:languages[0m => [[31m[1;31m"[0m[31mCOBOL[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31mFORTRAN[1;31m"[0m[31m[0m]
+    [1;34m39[0m:         },
+    [1;34m40[0m:         [33m:alan_kay[0m => {
+    [1;34m41[0m:           [33m:known_for[0m => [31m[1;31m"[0m[31mObject Orientation[1;31m"[0m[31m[0m,
+    [1;34m42[0m:           [33m:languages[0m => [[31m[1;31m"[0m[31mSmalltalk[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31mLISP[1;31m"[0m[31m[0m]
+    [1;34m43[0m:         },
+    [1;34m44[0m:         [33m:dennis_ritchie[0m => {
+    [1;34m45[0m:           [33m:known_for[0m => [31m[1;31m"[0m[31mUnix[1;31m"[0m[31m[0m,
+    [1;34m46[0m:           [33m:languages[0m => [[31m[1;31m"[0m[31mC[1;31m"[0m[31m[0m]
+    [1;34m47[0m:         }
+    [1;34m48[0m:      }
+    [1;34m49[0m:          programmer_hash
+    [1;34m50[0m: [32mend[0m
+
